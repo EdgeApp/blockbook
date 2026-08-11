@@ -23,10 +23,10 @@
     "package_name": "backend-digibyte-testnet",
     "package_revision": "satoshilabs-1",
     "system_user": "digibyte",
-    "version": "9.26.4",
-    "binary_url": "https://github.com/digibyte-core/digibyte/releases/download/v9.26.4/digibyte-9.26.4-x86_64-linux-gnu.tar.gz",
+    "version": "9.26.5",
+    "binary_url": "https://github.com/digibyte-core/digibyte/releases/download/v9.26.5/digibyte-9.26.5-x86_64-linux-gnu.tar.gz",
     "verification_type": "sha256",
-    "verification_source": "523da7ac9ee0f1bcb38ff75da6f01997b9491a9eee1e2b0ce3c90f60b2aaa9b3",
+    "verification_source": "37f6bf6a682f99b5966c2bd3f0cfe3013b60b7b55268958663231ebbf9e56773",
     "extract_command": "tar -C backend --strip 1 -xf",
     "exclude_files": [
       "bin/digibyte-qt"
