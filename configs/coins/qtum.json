@@ -23,10 +23,10 @@
     "package_name": "backend-qtum",
     "package_revision": "satoshilabs-1",
     "system_user": "qtum",
-    "version": "29.1",
-    "binary_url": "https://github.com/qtumproject/qtum/releases/download/v29.1/qtum-29.1-x86_64-linux-gnu.tar.gz",
+    "version": "30.3",
+    "binary_url": "https://github.com/qtumproject/qtum/releases/download/v30.3/qtum-30.3-x86_64-linux-gnu.tar.gz",
     "verification_type": "sha256",
-    "verification_source": "c04e3f49c8e21a7c910b2373f9a540794eca262c83a5afbe040e38b3f5b2da4b",
+    "verification_source": "49d20626d7941397e09484d0b0beed234ac4aa7c203e01cbb999f0e789b52198",
     "extract_command": "tar -C backend --strip 1 -xf",
     "exclude_files": [
       "bin/qtum-qt"
